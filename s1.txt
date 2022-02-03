@@ -1,2 +1,6 @@
 This is Soundarya 
 this is my text file for github.
+use git commands , now created branch in git sou1 
+sou =master
+sou1=feature branch
+
